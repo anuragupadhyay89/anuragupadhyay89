@@ -7,10 +7,6 @@
   **email id** - anurag.upadhyay89@gmail.com <br/>
   **linkedin** - www.linkedin.com/in/anurag-upad
 - 👯 I’m looking to collaborate on YouTube.
-- ⚡ Fun fact: One of my favorite life hacks is I can turn a single meal into three different meals to avoid cooking again! </br> Happy Coding !!
+- ⚡ Fun fact: One of my favorite life hacks is I can turn a single meal into three different meals to avoid cooking again! </br> 
 
-
-Profile introduction:
-- Full stack Java Developer with a passion for Java, Spring, Angular & AWS.
-- Oracle certified Java Professional.
-  -Spring/J2EE technologies enthusiast.
+Happy Coding !!
