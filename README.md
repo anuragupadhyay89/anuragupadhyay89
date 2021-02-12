@@ -1,16 +1,16 @@
-### Hi there 👋
+### Namaste :pray: I'm Anurag !
 
-<!--
-**anuragupadhyay89/anuragupadhyay89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a full stack Java Developer, currently working on Colorado's federal Health Exchange project (https://connectforhealthco.com) using Spring/J2EE technologies, Angular and microservices architecture.
+- 🌱 I’m currently learning AWS and Docker.
+- 💬 Ask me about Java 8, Spring, Spring Boot, Spring MVC, Hibernate, JPA, REST and SOAP Webservices.
+- 📫 How to reach me:<br/> 
+  **email id** - anurag.upadhyay89@gmail.com <br/>
+  **linkedin** - www.linkedin.com/in/anurag-upad
+- 👯 I’m looking to collaborate on YouTube.
+- ⚡ Fun fact: One of my favorite life hacks is I can turn a single meal into three different meals to avoid cooking again! </br> Happy Coding !!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profile introduction:
+- Full stack Java Developer with a passion for Java, Spring, Angular & AWS.
+- Oracle certified Java Professional.
+  -Spring/J2EE technologies enthusiast.
